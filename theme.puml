@@ -7,12 +7,12 @@
 '
 ' Colors
 '
-' Foreground
+' Background
 !$color_bg       = "#1E1E1E"
 !$color_bg_light = "#424856"
 
-' Background
-!$color_fg       = "#abb2bf"
+' Foreground
+!$color_fg       = "#ffffff"
 
 !$color_red      = "#e06c75"
 !$color_green    = "#98c379"
